@@ -5,7 +5,7 @@
   "version": "0.1",
 
   "description": "Add To OmniFocus2 Firefox Extension (Unofficial)",
-  "homepage_url": "https://jbking.org/",
+  "homepage_url": "https://github.com/jbking/AddToOmniFocus2",
   "icons": {
     "48": "icons/icon-48.png"
   },
